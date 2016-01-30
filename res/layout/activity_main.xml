@@ -1,0 +1,91 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+
+<LinearLayout 
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+       android:layout_width="match_parent"
+   >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+    <RelativeLayout 
+        android:layout_gravity="center_horizontal"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="#0f0"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/a"
+            />
+         <bwn.progressblock.ProgressBlock
+        android:id="@+id/progressblock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></bwn.progressblock.ProgressBlock>
+        
+    </RelativeLayout>
+    <GridLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        >
+         
+    <Button 
+        android:id="@+id/btn_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开始"
+         />
+    <Button 
+        android:id="@+id/btn_switch_orientation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="切换方向(水平/垂直)"
+         />
+        <Button 
+        android:id="@+id/btn_switch_reverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="切换走向(左右/上下)"
+         />
+             <Button 
+        android:id="@+id/btn_switch_text_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="改变进度文字颜色"
+         />
+             <Button 
+        android:id="@+id/btn_switch_text_orientation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="改变进度文字位置"
+         />
+             
+                       <Button 
+        android:id="@+id/btn_switch_block_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="改变进度块颜色"
+         />
+          
+         <Button 
+        android:id="@+id/btn_switch_text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="修改进度文字大小"
+         />
+        
+    </GridLayout>
+  
+</LinearLayout></ScrollView>
