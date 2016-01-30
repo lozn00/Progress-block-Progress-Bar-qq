@@ -1,4 +1,4 @@
-# progressblack 安卓自定义进度条 progressbar 仿QQ下载进度条.
+# progressblock 安卓自定义进度条 progressbar 高仿仿QQ下载进度条.
 same to qq download,block,form top to buttom,form left to right,进度块，从左边到右边从上边到下边半透明的效果
 
 
@@ -50,7 +50,9 @@ same to qq download,block,form top to buttom,form left to right,进度块，从�
 //具体看截图 截图在最下面
    
 ```
-### 联系我 
+### 联系我共同交流共同进步,图片在下面啦，比较大会截图的可以教教我怎么弄gif，又不影响质量 又速度快哈.
+
+
 1.![image](http://wpa.qq.com/pa?p=1:694886526:1)[QQ694886526](http://b.qq.com/webc.htm?new=0&sid=694886526&o=情随事迁&q=7)
 
 
