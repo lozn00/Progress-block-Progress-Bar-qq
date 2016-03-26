@@ -56,7 +56,7 @@ same to qq download,block,form top to buttom,form left to right,进度块，从�
 1.![image](http://wpa.qq.com/pa?p=1:694886526:1)[QQ694886526](http://b.qq.com/webc.htm?new=0&sid=694886526&o=情随事迁&q=7)
 
 
-2.[网站http://51bwn.com](http://www.51bwn.com)
+2.[网站http://qssq.space](http://qssq.space)
 
  ![image](https://github.com/51bwn/progressblack/blob/master/assets/1.png)
   ![image](https://github.com/51bwn/progressblack/blob/master/assets/2.png)
